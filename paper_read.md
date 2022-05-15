@@ -30,5 +30,5 @@
 
 | 汇报日期 | 文献 | 文献网址 | 来源 | github地址 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022.4.22 | Universal adversarial perturbation | https://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.pdf | CVPR2017 |https://github.com/LTS4/universal |
+| 2022.4.22 | Universal adversarial perturbations | https://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.pdf | CVPR2017 |https://github.com/LTS4/universal |
 
