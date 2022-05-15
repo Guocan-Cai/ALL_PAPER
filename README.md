@@ -1,2 +1,2 @@
 # ALL_PAPER
-paper read
+Please open the file paper_read.md.
