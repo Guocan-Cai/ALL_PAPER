@@ -37,5 +37,5 @@
 ### 五、持续学习
 | 汇报日期 | 文献 | 文献网址 | 来源 | github地址 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2022.5.18 | Continual learning in cross-modal retrieval | https://openaccess.thecvf.com/content/CVPR2021W/CLVision/papers/Wang_Continual_Learning_in_Cross-Modal_Retrieval_CVPRW_2021_paper.pdf | CVPR2017 | / |
+| 2022.5.18 | Continual learning in cross-modal retrieval | https://openaccess.thecvf.com/content/CVPR2021W/CLVision/papers/Wang_Continual_Learning_in_Cross-Modal_Retrieval_CVPRW_2021_paper.pdf | CVPR2021 | / |
 
